@@ -4,6 +4,7 @@ Entrevista teste usando tecnologia Next no frontend e Tailwind CSS, no backend N
 ### Tecnologias utilizadas
 - Nest 8.2.6 | backend
 - Prisma | Comunicação com banco de dados
+- Mysql 8.0 | Banco de dados
 - JWT | Segurança
 - Next 14.2.5 | Frontend
 - Tailwind CSS | Estilização
