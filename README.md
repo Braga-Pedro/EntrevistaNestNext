@@ -19,6 +19,7 @@ Entrar na pasta `frontend` | dar o comando `npm run dev`
 #### Considerações
 - O sistema foi desenvolvido para fazer a leitura de arquivos `CSV` de padrão pré-determinado como tem no Doc do desafio
 - O backend se encontra na porta 3001 e o frotend na porta 3000
+- As rotas da aplicação se encontram no arquivo: `app/test/api.http` | Utilizado o Rest Client, extensão do VsCode
 - Utilizado Trello para organização das tarefas a serem desenvolvidas [https://trello.com/invite/b/6686d2fcbb9b650973d04f5a/ATTI487fea08b830d457951fe82a20f3748aDAFEC711/projeto-nest-next-entrevista](url)
 
 # Desafio
