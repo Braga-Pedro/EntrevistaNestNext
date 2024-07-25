@@ -19,6 +19,7 @@ Entrar na pasta `frontend` | dar o comando `npm run dev`
 #### Considerações
 - O sistema foi desenvolvido para fazer a leitura de arquivos `CSV` com o padrão do arquivo teste enviado
 - O backend se encontra na porta 3001 e o frotend na porta 3000
+- Utilizado Trello para organização das tarefas a serem desenvolvidas [https://trello.com/invite/b/6686d2fcbb9b650973d04f5a/ATTI487fea08b830d457951fe82a20f3748aDAFEC711/projeto-nest-next-entrevista](url)
 
 # Desafio
 [https://docs.google.com/document/d/12AaDsKh1Mghs1_akY-BrMi6eJn6Ki4itkh7IRoa9fGg/edit?usp=sharing](url)
