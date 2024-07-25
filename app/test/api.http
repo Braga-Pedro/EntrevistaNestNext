@@ -1,0 +1,69 @@
+###
+# PHONENUMBER
+GET http://localhost:3001/groups/numbers
+
+###
+# PHONENUMBER
+POST http://localhost:3001/groups/upload
+Content-Type: multipart/form-data
+
+{
+    "groupId": 1
+}
+
+###
+# GROUPS
+POST http://localhost:3001/groups
+Content-Type: application/json
+
+{
+    "name"    : "RH"
+}
+
+###
+# GROUPS
+GET http://localhost:3001/groups
+
+
+###
+# LOGIN
+POST http://localhost:3001/auth/login
+Content-Type: application/json 
+
+{
+    "email"    : "user@gmail.com",
+    "password" : "us123"
+}
+
+###
+# GET ALL
+GET http://localhost:3001/auth-users
+
+###
+# CREATE
+POST http://localhost:3001/auth-users
+Content-Type: application/json 
+
+{
+    "email"    : "user@gmail.com",
+    "name"     : "usr",
+    "password" : "us123"
+}
+####
+# GET BY ID
+GET http://localhost:3001/auth-users/1
+
+###
+# UPDATE
+PATCH http://localhost:3001/auth-users/2
+Content-Type: application/json 
+
+{
+    "email"    : "pedro123@gmail.com",
+    "name"     : "pedro new pass",
+    "password" : "123p"
+}
+
+###
+# DELETE
+DELETE http://localhost:3001/auth-users/4
