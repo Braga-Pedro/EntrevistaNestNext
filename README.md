@@ -1,5 +1,5 @@
-# Teste Tech
-Entrevista teste usando tecnologia Next no frontend e Tailwind CSS, no backend Nest, Prisma para comunicação com banco de dados e JWT para validação de usuario logado.para
+# Sobre
+Sistema para upload de CSV padronizado e visualização dos dados inseridos juntamente com um sistema de login.
 
 ### Tecnologias utilizadas
 - Nest 8.2.6 | backend
