@@ -17,7 +17,8 @@ Entrar na pasta `app` | dar o comando `npm run start`
 Entrar na pasta `frontend` | dar o comando `npm run dev`
 
 #### Considerações
-O backend se encontra na porta 3001 e o frotend na porta 3000
+- O sistema foi desenvolvido para fazer a leitura de arquivos `CSV` com o padrão do arquivo teste enviado
+- O backend se encontra na porta 3001 e o frotend na porta 3000
 
 # Desafio
 [https://docs.google.com/document/d/12AaDsKh1Mghs1_akY-BrMi6eJn6Ki4itkh7IRoa9fGg/edit?usp=sharing](url)
